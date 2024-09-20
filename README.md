@@ -1,7 +1,3 @@
-Here's a description for your repository:
-
----
-
 # Microsoft Teams Chatbot with Power Automate
 
 This repository showcases how to create a Microsoft Teams chatbot using Power Automate to automate workflows and enhance productivity. The chatbot will interact with users in Teams, enabling them to trigger various automated processes, such as retrieving information, sending notifications, or performing repetitive tasks directly from the chat interface.
