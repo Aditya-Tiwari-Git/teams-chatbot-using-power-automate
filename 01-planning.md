@@ -29,4 +29,14 @@ This project aims to create a chatbot using Adaptive Cards, Power Automate, and 
 
 ---
 
+## Next Steps:
+- Create the SharePoint list with necessary fields.
+- Finalize the design of adaptive cards for each use case.
+- Build the Power Automate workflows to connect SharePoint data with Teams chats.
 
+---
+
+## Additional Considerations
+- **Security:** Ensure that the data in SharePoint is protected and that only authorized users can access or modify it.
+- **Testing:** Test each phase thoroughly, from data storage to card display and interaction in Teams.
+- **Scalability:** Plan for potential future expansions, such as more complex data or additional use cases.
