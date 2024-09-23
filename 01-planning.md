@@ -15,3 +15,11 @@ This project aims to create a chatbot using Adaptive Cards, Power Automate, and 
 
 
 
+### 2. Designing Adaptive Cards
+- **Purpose:** Provide a visually engaging way to present data in Teams chat.
+- **Details:**
+  - Design the adaptive cards based on the data types from the SharePoint list (e.g., Text Blocks for descriptions, Action Buttons for navigation or responses).
+  - Use the Adaptive Card Designer to mock up cards before implementing them.
+  - Consider the scenarios where different cards will be shown based on user queries or actions.
+
+
